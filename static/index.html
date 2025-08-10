@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel = "icon" href="static/conversation-bot.png" type="image/png">
+  <title>Voice Bot UI</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    #langControls, #controls {
+      margin-bottom: 20px;
+    }
+    #langControls label {
+      font-weight: bold;
+      display: block;
+      margin-bottom: 8px;
+    }
+    .langBtn {
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: none;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+      margin-right: 8px;
+      transition: background-color 0.2s;
+    }
+    .langBtn.selected {
+      background-color: #0056b3;
+    }
+    .langBtn:disabled {
+      background-color: #aaa;
+      cursor: default;
+    }
+    #startStopBtn {
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: none;
+      background-color: #28a745;
+      color: white;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+    #startStopBtn.stop {
+      background-color: #dc3545;
+    }
+    #startStopBtn:disabled {
+      background-color: #aaa;
+      cursor: default;
+    }
+    #info {
+      margin-top: 10px;
+      font-style: italic;
+      color: #333;
+    }
+    #transcripts {
+      width: 100%;
+      height: 300px;
+      border: 1px solid #ccc;
+      padding: 10px;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      background: #f9f9f9;
+      margin-top: 20px;
+    }
+    #plans-json {
+      width: 100%;
+      height: auto;
+      border: 1 px solid #ccc;
+      padding: 10px;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      background: #b2b2b2;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Conversational AI Demo</h1>
+  <!-- ─── Language‐toggle buttons ─────────────────────────────────────────── -->
+  <div id="langControls">
+    <label>Select language:</label>
+    <button class="langBtn selected" data-lang="en-IN">English (IN)</button>
+    <button class="langBtn" data-lang="multi">Multi (Hinglish)</button>
+    <!-- <button class="langBtn" data-lang="hi">Hindi</button> -->
+  </div>
+
+  <!-- ─── Start/Stop button and info message ─────────────────────────────────── -->
+  <div id="controls">
+    <button id="startStopBtn">Start the Conversation</button> 
+    <div id="info"></div>
+  </div>
+
+  <!-- ─── Transcript output area ────────────────────────────────────────────── -->
+  <div id="transcripts" readonly></div>
+  <div id="plans-json" readonly></div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

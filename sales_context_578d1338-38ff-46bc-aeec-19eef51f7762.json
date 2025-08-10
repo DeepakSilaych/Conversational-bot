@@ -1,0 +1,1390 @@
+{
+  "current_recommendations": {
+    "user_requirement": {
+      "sum_assured": 500000,
+      "budget": 25000,
+      "family": [
+        "self",
+        "spouse"
+      ]
+    },
+    "recommended_plans": {
+      "10ea3521-b6a7-4cbc-84b9-f7440facc065": {
+        "name": "Super Star",
+        "company": "Star Health And Allied Insurance Company Limited",
+        "monthly_premium": 1111,
+        "annual_premium": 13329.0,
+        "usps": [
+          "Up to 100% SI",
+          "unlimited times in a policy year for related and unrelated illness for subsequent hospitalisation and triggers on partial/ full utilisation of SI"
+        ],
+        "benefits": {
+          "room_rent": "Any Room",
+          "pre_existing": "3 years and Option to reduce PED coverage to 2 years and 1 year",
+          "maternity": "(Optional) Up to Rs 50,000/ 1 Lakh as opted (24-month waiting period)",
+          "cashless": "Yes",
+          "restoration": "Yes",
+          "copay": "Not Applicable",
+          "opd": "No",
+          "ncb": "50% after each renewal (if claim-free) , Maximum up to 100% of SI"
+        },
+        "addons": [],
+        "is_best_match": false
+      },
+      "202877c6-1446-42c8-9f30-85e3fdbfcae8": {
+        "name": "Reassure 2.0 Bronze+ Direct",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1237,
+        "annual_premium": 14843.0,
+        "usps": [
+          "Unlimited Automatic Restoration",
+          "Unlimited E-Consultations",
+          "Wellness Benefit: Earn up to 30% Discount on Renewal",
+          "Guaranteed Carry Forward of the unused Sum Insured",
+          "Reassure Forever"
+        ],
+        "benefits": {
+          "room_rent": "Any Room (Covered up to Rs 7.5 L)",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "(Guaranteed Booster +) 3X: Unutilised Base Sum Insured carries forward to the next policy year, maximum up to 3 times of Base Sum Insured."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "option to select deductible between 20k, 30k, 50k, 1Lakh,"
+          }
+        ],
+        "is_best_match": false
+      },
+      "20a737ba-228e-4b22-a22c-db5c29a9abe0": {
+        "name": "Sarvah Param",
+        "company": "ManipalCigna Health Insurance Company Limited",
+        "monthly_premium": 2415,
+        "annual_premium": 28975.0,
+        "usps": [
+          "Ultimate Comprehensive",
+          "personalized and Modular Health Protection plan with ABSOLUTELY ZERO WAITING PERIOD. Health coverage from day one without any waiting Period No Zone wise co-payment",
+          "Guaranteed 10X bonus Restoration- Multiple Restoration is available in a Policy Year for all illnesses whether unrelated or same",
+          "Unlimited Tele- Unlimited Tele-consultation with General Physician during the Policy Year",
+          "Modern Advanced Treatments and HIV/AIDS & STD Cover Up to Sum Insured\n        Surplus Benefit - Get Option to cover additional 100% of the Sum Insured available from day 1 for 1st claim only in each policy year"
+        ],
+        "benefits": {
+          "room_rent": "Single Private AC room upto7.5L",
+          "pre_existing": "After 3 Yrs",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "Not Applicable",
+          "opd": "No",
+          "ncb": "100% Of SI per yr-Max Up to 1000% of sum insured through optional Cover and reducible and non-refundable (This is inbuilt benefit and shall not reduce in case of claim)."
+        },
+        "addons": [],
+        "is_best_match": false
+      },
+      "2ddf6afb-ad5f-4871-9780-8aab82e1b17c": {
+        "name": "Reassure 2.0 Platinum Plus",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1354,
+        "annual_premium": 16254.0,
+        "usps": [
+          "Unlimited Automatic Restoration",
+          "Unlimited E-Consultations",
+          "Wellness Benefit: Earn up to 30% Discount on Renewal",
+          "Guaranteed Carry Forward of the unused Sum Insured",
+          "Reassure Forever"
+        ],
+        "benefits": {
+          "room_rent": "Any Room (Covered up to Rs 7.5L)",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "(Guaranteed Booster +) 5X: Unutilised Base Sum Insured carries forward to the next policy year, maximum up to 5 times of Base Sum Insured."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "option to select deductible between 20k, 30k, 50k, 1Lakh,"
+          }
+        ],
+        "is_best_match": false
+      },
+      "37944a49-47b1-4604-8e19-138cc220895c": {
+        "name": "Rise",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1150,
+        "annual_premium": 13801.0,
+        "usps": [
+          "Unlimited Automatic Restoration",
+          "Unlimited E-Consultations",
+          "Wellness Benefit: Earn up to 30% Discount on Renewal",
+          "Guaranteed Carry Forward of the unused Sum Insured",
+          "Reassure Forever"
+        ],
+        "benefits": {
+          "room_rent": "Covered up to twin sharing room without co-payment. Flat 20% co-payment: If above twin sharing room is opted.",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "(Guaranteed Booster +) 5X: Unutilised Base Sum Insured carries forward to the next policy year, maximum up to 5 times of Base Sum Insured."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Room Type Modification",
+            "details": "Available"
+          },
+          {
+            "name": "Annual Aggregate Deductible",
+            "details": ""
+          }
+        ],
+        "is_best_match": false
+      },
+      "3c04600f-30e3-469a-bcd6-bd56c97ffcbb": {
+        "name": "Aspire Gold+ Direct",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1353,
+        "annual_premium": 16233.0,
+        "usps": [
+          "M-iracle- Covers expenses around maternity- IVF- adoption- surrogacy and more",
+          "Carry forward the balance sum insured up to 10X",
+          "Cash Bag-Accumulate cashback on every claim-free year. Pay for premiums-deductible- co-payment- and OPD",
+          "Borderless- Get treatment anywhere in the world",
+          "Fast Forward-Don\u2019t wait for what you\u2019ve paid"
+        ],
+        "benefits": {
+          "room_rent": "Upto 750000",
+          "pre_existing": "Covers after 3 Years",
+          "maternity": "Covers expenses around maternity, IVF, adoption, surrogacy and more. Carry forward the balance sum insured up to 10X as per entry age.",
+          "cashless": "no",
+          "restoration": "Yes",
+          "copay": "No",
+          "opd": "No",
+          "ncb": "Unutilised Base Sum Insured carries forward to the next policy year upto 2x."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Disease Management",
+            "details": "Available"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "Choose a small deductible. INR 20,000 / INR 30,000 / INR 50,000 / INR 1,00,000"
+          }
+        ],
+        "is_best_match": false
+      },
+      "3c25b4e9-e6b8-4cbb-bfc7-d3c9ad262bc4": {
+        "name": "Aspire Platinum+ Direct",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1663,
+        "annual_premium": 19954.0,
+        "usps": [
+          "M-iracle- Covers expenses around maternity- IVF- adoption- surrogacy and more",
+          "Booster+",
+          "Carry forward the balance sum insured up to 10X",
+          "Live Healthy Discount upto 30% at the time of renewal",
+          "Maternity and Parenthood will be cover in just after 9 months"
+        ],
+        "benefits": {
+          "room_rent": "Upto 750000",
+          "pre_existing": "After 3 years",
+          "maternity": "Covers expenses around maternity, IVF, adoption, surrogacy and more. Carry forward the balance sum insured up to 10X as per entry age.",
+          "cashless": "no",
+          "restoration": "Yes",
+          "copay": "No",
+          "opd": "No",
+          "ncb": "Unutilised Base Sum Insured carries forward to the next policy year upto 5x."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Disease Management",
+            "details": "Available"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "Choose a small deductible. INR 20,000 / INR 30,000 / INR 50,000 / INR 1,00,000"
+          }
+        ],
+        "is_best_match": false
+      },
+      "3fa94616-9101-4e71-a464-eecc4366a1dd": {
+        "name": "Sarvah Uttam",
+        "company": "ManipalCigna Health Insurance Company Limited",
+        "monthly_premium": 1559,
+        "annual_premium": 18711.0,
+        "usps": [
+          "Ultimate personalized Comprehensive and Modular Protection plan along with Infinite Health Coverage for 4 critical condition Heart and Cancer  Stroke and Major Organ/Bone Marrow Transplant",
+          "No Zone wise co-payment",
+          "Option to Cover PED like Asthma - BP - Cholesterol - Diabetes & Obesity after 30 days",
+          "Guaranteed 10X bonus",
+          "Restoration- Multiple Restoration is available in a Policy Year for all illnesses whether unrelated or same"
+        ],
+        "benefits": {
+          "room_rent": "Single Private AC room upto7.5L",
+          "pre_existing": "After 3 Yrs",
+          "maternity": "Available with Optional Cover ",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "Not Applicable",
+          "opd": "No",
+          "ncb": "100% Of SI per per yr-Max Up to 1000% Of Sum Insured \n        throgh  optional Cover and  Reducible and non refundable (This is guaranteed bonus shall not reduce in case of claim)."
+        },
+        "addons": [
+          {
+            "name": "Maternity Expenses",
+            "details": "In Individual policies, we can offer Maternity Expenses to Adult Insured Male member as well. However, claim under this benefit shall be payable to the female spouse upon adding them as an Insured in the Policy. In such cases the applicable waiting period shall be as per the first inception of the policy."
+          }
+        ],
+        "is_best_match": false
+      },
+      "40eb9fe7-7dba-424c-854f-5cdef73e50fa": {
+        "name": "Aspire Diamond+ Direct",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1542,
+        "annual_premium": 18509.0,
+        "usps": [
+          "M-iracle- Covers expenses around maternity- IVF- adoption- surrogacy and more",
+          "Booster+ Carry forward the balance sum insured up to 10X",
+          "Live Healthy Discount upto 30% at the time of renewal",
+          "Maternity and Parenthood will be cover in just after 2 yrs",
+          "No sub limit on benefits"
+        ],
+        "benefits": {
+          "room_rent": "Upto 750000",
+          "pre_existing": "After 3 years",
+          "maternity": "Covers expenses around maternity, IVF, adoption, surrogacy and more. Carry forward the balance sum insured up to 10X as per entry age.",
+          "cashless": "no",
+          "restoration": "Yes",
+          "copay": "No",
+          "opd": "No",
+          "ncb": "Unutilised Base Sum Insured carries forward to the next policy year upto 3x."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Disease Management",
+            "details": "Available"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "Choose a small deductible. INR 20,000 / INR 30,000 / INR 50,000 / INR 1,00,000"
+          }
+        ],
+        "is_best_match": false
+      },
+      "424506a3-f02c-4483-881b-9dd6bea2c33d": {
+        "name": "Active One VYTL - Direct",
+        "company": "Aditya Birla Health Insurance Company Limited",
+        "monthly_premium": 1656,
+        "annual_premium": 19877.0,
+        "usps": [
+          "No limit on benefits",
+          "Super Reload benefits",
+          "Non consumable items are covered",
+          "Chronic care Managment Benefit"
+        ],
+        "benefits": {
+          "room_rent": "Actual upto sum insured",
+          "pre_existing": "Covers after 3 Years & Initial Waiting period will be waive of for Diabetes, Hypertension, Asthma, Hyperlipidaemia, COPD, Obesity, Coronary Artery Disease",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "Super credit- 50% of Sum Insured- Max. 100% or Max. 3 Cr."
+        },
+        "addons": [
+          {
+            "name": "Personal Accident Cover AD+PTD+PPD",
+            "details": "Available"
+          },
+          {
+            "name": "Critical Illness cover",
+            "details": "Available"
+          }
+        ],
+        "is_best_match": false
+      },
+      "442e9875-1d50-4936-a24f-45350eaef689": {
+        "name": "Aspire Gold+",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1353,
+        "annual_premium": 16233.0,
+        "usps": [
+          "M-iracle- Covers expenses around maternity- IVF- adoption- surrogacy and more",
+          "Carry forward the balance sum insured up to 10X",
+          "Cash Bag-Accumulate cashback on every claim-free year. Pay for premiums-deductible- co-payment- and OPD",
+          "Borderless- Get treatment anywhere in the world",
+          "Fast Forward-Don\u2019t wait for what you\u2019ve paid"
+        ],
+        "benefits": {
+          "room_rent": "Upto 750000",
+          "pre_existing": "Covers after 3 Years",
+          "maternity": "Covers expenses around maternity, IVF, adoption, surrogacy and more. Carry forward the balance sum insured up to 10X as per entry age.",
+          "cashless": "no",
+          "restoration": "Yes",
+          "copay": "No",
+          "opd": "No",
+          "ncb": "Unutilised Base Sum Insured carries forward to the next policy year upto 2x."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Disease Management",
+            "details": "Available"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "Choose a small deductible. INR 20,000 / INR 30,000 / INR 50,000 / INR 1,00,000"
+          }
+        ],
+        "is_best_match": false
+      },
+      "4616b90e-86d9-4872-b5f9-61ec1e00fe02": {
+        "name": "Rise - Direct",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1150,
+        "annual_premium": 13801.0,
+        "usps": [
+          "Unlimited Automatic Restoration",
+          "Unlimited E-Consultations",
+          "Wellness Benefit: Earn up to 30% Discount on Renewal",
+          "Guaranteed Carry Forward of the unused Sum Insured",
+          "Reassure Forever"
+        ],
+        "benefits": {
+          "room_rent": "Covered up to twin sharing room without co-payment. Flat 20% co-payment: If above twin sharing room is opted.",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "(Guaranteed Booster +) 5X: Unutilised Base Sum Insured carries forward to the next policy year, maximum up to 5 times of Base Sum Insured."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Room Type Modification",
+            "details": "Available"
+          },
+          {
+            "name": "Annual Aggregate Deductible",
+            "details": ""
+          }
+        ],
+        "is_best_match": false
+      },
+      "4fa79f75-9671-4704-8469-3b6447044006": {
+        "name": "Care Heart",
+        "company": "Care Health Insurance Limited",
+        "monthly_premium": 1416,
+        "annual_premium": 16989.0,
+        "usps": [
+          "Lifelong Renewability",
+          "Auto Recharge if SA exhausts upto 100%",
+          "541 Day Care Treatment",
+          "No Claim Based Loading",
+          "19000+ Network hospital covered"
+        ],
+        "benefits": {
+          "room_rent": "Single Private Room",
+          "pre_existing": "After 2 years",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "You pay 20% (if the entry age is 70 or below and 30% if the entry age is above 70 yrs)",
+          "opd": "No",
+          "ncb": "10% increase in SI per Policy Year in case of claim-free year; Max up to 50% of SI"
+        },
+        "addons": [],
+        "is_best_match": false
+      },
+      "56965aee-a4a1-46ff-bfe2-42c29d5002aa": {
+        "name": "Reassure 2.0 Gold",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1198,
+        "annual_premium": 14378.0,
+        "usps": [
+          "Hospitalisation covered for 2 hours (1) and more Unlimited Restoration Upto 30% discount on renewal Booster+",
+          "Guaranteed Carry Forward of the unused Sum Insured"
+        ],
+        "benefits": {
+          "room_rent": "Any Room (Covered up to Rs 7.5L)",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "10X: Unutilized Base Sum Insured carries forward to the next policy year, maximum up to 10 times."
+        },
+        "addons": [
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          }
+        ],
+        "is_best_match": false
+      },
+      "61eab95e-02b6-4a0e-855e-83b2fc335691": {
+        "name": "Care Freedom",
+        "company": "Care Health Insurance Limited",
+        "monthly_premium": 1008,
+        "annual_premium": 12094.0,
+        "usps": [
+          "Companion Benefit that gives a lump-sum amount (if hospitalization exceeds 10 days)",
+          "Automatic Recharge upto 100% of Sum Insured",
+          "19000+ Network hospital covered",
+          "Free Annual Health Check-up for all insured members"
+        ],
+        "benefits": {
+          "room_rent": "Twin Sharing",
+          "pre_existing": "After 2 Years",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "20% for all customers age less then 70 Yrs, 30% for all customers enrolling in policy after attaining Age equal or greater then 71 Years",
+          "opd": "No",
+          "ncb": "Not Available"
+        },
+        "addons": [],
+        "is_best_match": false
+      },
+      "696eb59e-890f-4279-9e85-3900e35fb172": {
+        "name": "Reassure 2.0 Platinum Plus - Direct",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1354,
+        "annual_premium": 16254.0,
+        "usps": [
+          "Unlimited Automatic Restoration",
+          "Unlimited E-Consultations",
+          "Wellness Benefit: Earn up to 30% Discount on Renewal",
+          "Guaranteed Carry Forward of the unused Sum Insured",
+          "Reassure Forever"
+        ],
+        "benefits": {
+          "room_rent": "Any Room (Covered up to Rs 7.5L)",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "(Guaranteed Booster +) 5X: Unutilised Base Sum Insured carries forward to the next policy year, maximum up to 5 times of Base Sum Insured."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "option to select deductible between 20k, 30k, 50k, 1Lakh,"
+          }
+        ],
+        "is_best_match": false
+      },
+      "6cd24127-b435-48b1-98ad-dc39b739dbb8": {
+        "name": "Star Assure",
+        "company": "Star Health And Allied Insurance Company Limited",
+        "monthly_premium": 1522,
+        "annual_premium": 18269.0,
+        "usps": [
+          "Unlimited Restoration",
+          "Modern Treatments are covered upto SI",
+          "Coverage for Non-medical Items",
+          "Home Care (10% of SI and Max upto 5L)",
+          "IVF Treatment (Covers after 2 years & as per SI)"
+        ],
+        "benefits": {
+          "room_rent": "Upto Rs. 5000/- Day",
+          "pre_existing": "After 3 Years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "Yes",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "25% increase in SI for every claim free year upto 100% of SI"
+        },
+        "addons": [],
+        "is_best_match": false
+      },
+      "7185233e-d716-4a2d-b305-f8e476ac863f": {
+        "name": "Active One VYTL",
+        "company": "Aditya Birla Health Insurance Company Limited",
+        "monthly_premium": 1748,
+        "annual_premium": 20982.0,
+        "usps": [
+          "No limit on benefits",
+          "Super Reload benefits",
+          "Non consumable items are covered",
+          "Chronic care Managment Benefit"
+        ],
+        "benefits": {
+          "room_rent": "Actual upto sum insured",
+          "pre_existing": "Covers after 3 Years & Initial Waiting period will be waive of for Diabetes, Hypertension, Asthma, Hyperlipidaemia, COPD, Obesity, Coronary Artery Disease",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "Super credit- 50% of Sum Insured- Max. 100% or Max. 3 Cr."
+        },
+        "addons": [
+          {
+            "name": "Personal Accident Cover AD+PTD+PPD",
+            "details": "Available"
+          },
+          {
+            "name": "Critical Illness cover",
+            "details": "Available"
+          }
+        ],
+        "is_best_match": false
+      },
+      "7d7d078b-7296-4bd2-847d-20333cf3817b": {
+        "name": "Aspire Diamond+",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1542,
+        "annual_premium": 18509.0,
+        "usps": [
+          "M-iracle- Covers expenses around maternity- IVF- adoption- surrogacy and more",
+          "Booster+ Carry forward the balance sum insured up to 10X",
+          "Live Healthy Discount upto 30% at the time of renewal",
+          "Maternity and Parenthood will be cover in just after 2 yrs",
+          "No sub limit on benefits"
+        ],
+        "benefits": {
+          "room_rent": "Upto 750000",
+          "pre_existing": "After 3 years",
+          "maternity": "Covers expenses around maternity, IVF, adoption, surrogacy and more. Carry forward the balance sum insured up to 10X as per entry age.",
+          "cashless": "no",
+          "restoration": "Yes",
+          "copay": "No",
+          "opd": "No",
+          "ncb": "Unutilised Base Sum Insured carries forward to the next policy year upto 3x."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Disease Management",
+            "details": "Available"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "Choose a small deductible. INR 20,000 / INR 30,000 / INR 50,000 / INR 1,00,000"
+          }
+        ],
+        "is_best_match": false
+      },
+      "833b2f6c-a4f7-43de-ab5d-df2f8b3a30a9": {
+        "name": "Aspire Platinum+",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1663,
+        "annual_premium": 19954.0,
+        "usps": [
+          "M-iracle- Covers expenses around maternity- IVF- adoption- surrogacy and more",
+          "Booster+",
+          "Carry forward the balance sum insured up to 10X",
+          "Live Healthy Discount upto 30% at the time of renewal",
+          "Maternity and Parenthood will be cover in just after 9 months"
+        ],
+        "benefits": {
+          "room_rent": "Upto 750000",
+          "pre_existing": "After 3 years",
+          "maternity": "Covers expenses around maternity, IVF, adoption, surrogacy and more. Carry forward the balance sum insured up to 10X as per entry age.",
+          "cashless": "no",
+          "restoration": "Yes",
+          "copay": "No",
+          "opd": "No",
+          "ncb": "Unutilised Base Sum Insured carries forward to the next policy year upto 5x."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Disease Management",
+            "details": "Available"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "Choose a small deductible. INR 20,000 / INR 30,000 / INR 50,000 / INR 1,00,000"
+          }
+        ],
+        "is_best_match": false
+      },
+      "88bed328-4674-48d7-98fa-470a87042768": {
+        "name": "Aspire Titanium+",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1674,
+        "annual_premium": 20084.0,
+        "usps": [
+          "M-iracle- Covers expenses around maternity- IVF- adoption- surrogacy and more",
+          "Booster+ Carry forward the balance sum insured up to 10X",
+          "Live Healthy Discount upto 30% at the time of renewal",
+          "Maternity and Parenthood will be cover in just after 9 months",
+          "No sub limit on benefits"
+        ],
+        "benefits": {
+          "room_rent": "Upto 750000",
+          "pre_existing": "After 3 years",
+          "maternity": "Covers expenses around maternity, IVF, adoption, surrogacy and more. Carry forward the balance sum insured up to 10X as per entry age.",
+          "cashless": "no",
+          "restoration": "Yes",
+          "copay": "No",
+          "opd": "No",
+          "ncb": "Unutilised Base Sum Insured carries forward to the next policy year upto 5x."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Disease Management",
+            "details": "Available"
+          },
+          {
+            "name": "Room Category",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "Choose a small deductible. INR 20,000 / INR 30,000 / INR 50,000 / INR 1,00,000"
+          }
+        ],
+        "is_best_match": false
+      },
+      "8d727d94-9341-4c5f-9425-a9c5c1dc9213": {
+        "name": "Women Care",
+        "company": "Star Health And Allied Insurance Company Limited",
+        "monthly_premium": 1507,
+        "annual_premium": 18084.0,
+        "usps": [
+          "Covers In Utero Fetal Surgery/Repair",
+          "Ante-Natal Care",
+          "Assisted Reproduction (ART)",
+          "Voluntary Sterilization",
+          "Metabolic Screening"
+        ],
+        "benefits": {
+          "room_rent": "Upto 1% of Sum Insured per day",
+          "pre_existing": "After 2 years",
+          "maternity": "25K , Waiting period - 2yrs",
+          "cashless": "Covered upto 5L",
+          "restoration": "Yes",
+          "copay": "You pay 0% of claim",
+          "opd": "No",
+          "ncb": "Rs 1L of the Sum Insured upto Rs 5L"
+        },
+        "addons": [],
+        "is_best_match": false
+      },
+      "94eb3989-2280-453e-9ff4-b7f34425fb67": {
+        "name": "ReAssure - Direct",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1863,
+        "annual_premium": 22353.0,
+        "usps": [
+          "No limitation on hospitalization benefits-covered upto Sum insured",
+          "No co-payment available",
+          "Daily cash on shared accomodation",
+          "Emergency ambulance covered",
+          "Health checkup available from day 1"
+        ],
+        "benefits": {
+          "room_rent": "Covered Upto Sum Insured",
+          "pre_existing": "After 3 year",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "50% of sum insured in case of claim free year-Max. upto 100% of Sum Insured"
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base Sum Insured. Maximum up to INR 1 Crore"
+          },
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          }
+        ],
+        "is_best_match": true
+      },
+      "9548d03f-e127-4b30-a576-72ca2375701d": {
+        "name": "Reassure 2.0 Bronze - Direct",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1149,
+        "annual_premium": 13793.0,
+        "usps": [
+          "Hospitalisation covered for 2 hours (1) and more Unlimited Restoration Upto 30% discount on renewal Booster+",
+          "Guaranteed Carry Forward of the unused Sum Insured"
+        ],
+        "benefits": {
+          "room_rent": "Any Room (Covered up to Rs 7.5L)",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "3X: Unutilised Base Sum Insured carries forward to the next policy year, maximum up to 3 times"
+        },
+        "addons": [
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          }
+        ],
+        "is_best_match": false
+      },
+      "96533376-37ef-4fda-bdd2-afa6b025bcd9": {
+        "name": "Care Supreme Direct",
+        "company": "Care Health Insurance Limited",
+        "monthly_premium": 1317,
+        "annual_premium": 15804.0,
+        "usps": [
+          "Advance Technology Methods covered upto SI",
+          "Unlimited Automatic Recharge",
+          "Unlimited E-Consultations",
+          "No reduction in Cumulative Bonus even if you claim",
+          "Wellness Benefit: Earn up to 30% Discount on Renewal"
+        ],
+        "benefits": {
+          "room_rent": "Covered Upto Rs. 7L",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "No Co-pay",
+          "opd": "No",
+          "ncb": "50% of SI per year, max up to 100% of SI; Shall not reduce in case of claim"
+        },
+        "addons": [],
+        "is_best_match": false
+      },
+      "a21d9ce6-dbb1-4f85-b290-91e6eef36807": {
+        "name": "Sarvah Pratham",
+        "company": "ManipalCigna Health Insurance Company Limited",
+        "monthly_premium": 388,
+        "annual_premium": 4652.0,
+        "usps": [
+          "Comprehensive protection with a focus on essential coverage. Covers 4 critical conditions i.e.  Heart Cancer Stroke and Major Organ/Bone Marrow Transplant. Accident Hospitalization available as Optional Cover Accident Hospitalization Cover Up to Sum Insured",
+          "No Zone wise co-payment",
+          "Guaranteed 10X bonus",
+          "Restoration- Multiple Restoration is available in a Policy Year for all illnesses",
+          "whether unrelated or same"
+        ],
+        "benefits": {
+          "room_rent": "Single Private AC room upto7.5L",
+          "pre_existing": "No waiting Period",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "Not Applicable",
+          "opd": "No",
+          "ncb": "100% Of SI per per yr-Max Up to 1000% Of Sum Insured through  optional Cover and  Reducible and non refundable (This is guaranteed bonus shall not reduce in case of claim)."
+        },
+        "addons": [],
+        "is_best_match": false
+      },
+      "a40c94bb-9762-49d9-a872-df58a3e745ce": {
+        "name": "Aspire Titanium+ Direct",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1674,
+        "annual_premium": 20084.0,
+        "usps": [
+          "M-iracle- Covers expenses around maternity- IVF- adoption- surrogacy and more",
+          "Booster+ Carry forward the balance sum insured up to 10X",
+          "Live Healthy Discount upto 30% at the time of renewal",
+          "Maternity and Parenthood will be cover in just after 9 months",
+          "No sub limit on benefits"
+        ],
+        "benefits": {
+          "room_rent": "Upto 750000",
+          "pre_existing": "After 3 years",
+          "maternity": "Covers expenses around maternity, IVF, adoption, surrogacy and more. Carry forward the balance sum insured up to 10X as per entry age.",
+          "cashless": "no",
+          "restoration": "Yes",
+          "copay": "No",
+          "opd": "No",
+          "ncb": "Unutilised Base Sum Insured carries forward to the next policy year upto 5x."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Disease Management",
+            "details": "Available"
+          },
+          {
+            "name": "Room Category",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "Choose a small deductible. INR 20,000 / INR 30,000 / INR 50,000 / INR 1,00,000"
+          }
+        ],
+        "is_best_match": false
+      },
+      "c1f66404-5425-46e0-8a53-a5cc915c652d": {
+        "name": "Active One Max",
+        "company": "Aditya Birla Health Insurance Company Limited",
+        "monthly_premium": 1397,
+        "annual_premium": 16764.0,
+        "usps": [
+          "No limit on benefits",
+          "Super Reload benefits",
+          "Non consumable items are covered",
+          "Option to waive off the waiting period for specific illnesses"
+        ],
+        "benefits": {
+          "room_rent": "Actual upto sum insured",
+          "pre_existing": "Covers after 3 Years Option to reduce PED W.P. for specific illness",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "Super credit- 100% of Sum Insured- Max. 500% or Max. 3 Cr."
+        },
+        "addons": [
+          {
+            "name": "Personal Accident Cover AD+PTD+PPD",
+            "details": "Available"
+          },
+          {
+            "name": "Critical Illness cover",
+            "details": "Available"
+          }
+        ],
+        "is_best_match": false
+      },
+      "c302fe92-8a7e-4961-b333-79e627b9ec8d": {
+        "name": "Care Supreme",
+        "company": "Care Health Insurance Limited",
+        "monthly_premium": 1317,
+        "annual_premium": 15804.0,
+        "usps": [
+          "Advance Technology Methods covered upto SI",
+          "Unlimited Automatic Recharge",
+          "Unlimited E-Consultations",
+          "No reduction in Cumulative Bonus even if you claim",
+          "Wellness Benefit: Earn up to 30% Discount on Renewal"
+        ],
+        "benefits": {
+          "room_rent": "Covered Upto Rs. 7L",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "No Co-pay",
+          "opd": "No",
+          "ncb": "50% of SI per year, max up to 100% of SI; Shall not reduce in case of claim"
+        },
+        "addons": [],
+        "is_best_match": false
+      },
+      "c4240abb-5095-4b72-87a8-496bc09f7723": {
+        "name": "Sarvah Param - Direct",
+        "company": "ManipalCigna Health Insurance Company Limited",
+        "monthly_premium": 2294,
+        "annual_premium": 27526.0,
+        "usps": [
+          "Ultimate Comprehensive",
+          "personalized and Modular Health Protection plan with ABSOLUTELY ZERO WAITING PERIOD. Health coverage from day one without any waiting Period No Zone wise co-payment",
+          "Guaranteed 10X bonus Restoration- Multiple Restoration is available in a Policy Year for all illnesses whether unrelated or same",
+          "Unlimited Tele- Unlimited Tele-consultation with General Physician during the Policy Year",
+          "Modern Advanced Treatments and HIV/AIDS & STD Cover Up to Sum Insured\n        Surplus Benefit - Get Option to cover additional 100% of the Sum Insured available from day 1 for 1st claim only in each policy year"
+        ],
+        "benefits": {
+          "room_rent": "Single Private AC room upto7.5L",
+          "pre_existing": "After 3 Yrs",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "Not Applicable",
+          "opd": "No",
+          "ncb": "100% Of SI per yr-Max Up to 1000% of sum insured through optional Cover and reducible and non-refundable (This is inbuilt benefit and shall not reduce in case of claim)."
+        },
+        "addons": [],
+        "is_best_match": false
+      },
+      "ce4848ce-eb90-42ec-ad57-76f2f1aefdc3": {
+        "name": "Reassure 2.0 Titanium+",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1386,
+        "annual_premium": 16633.0,
+        "usps": [
+          "Unlimited Automatic Restoration",
+          "Unlimited E-Consultations",
+          "Wellness Benefit: Earn up to 30% Discount on Renewal",
+          "Guaranteed Carry Forward of the unused Sum Insured",
+          "Reassure Forever"
+        ],
+        "benefits": {
+          "room_rent": "Any Room (Covered up to Rs 7.5L)",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "(Guaranteed Booster +) 10X: Unutilised Base Sum Insured carries forward to the next policy year, maximum up to 10 times of Base Sum Insured."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "option to select deductible between 20k, 30k, 50k, 1Lakh,"
+          }
+        ],
+        "is_best_match": false
+      },
+      "d351bb2c-1a17-41d9-b597-7909994f9b37": {
+        "name": "Reassure 2.0 Bronze+",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1237,
+        "annual_premium": 14843.0,
+        "usps": [
+          "Unlimited Automatic Restoration",
+          "Unlimited E-Consultations",
+          "Wellness Benefit: Earn up to 30% Discount on Renewal",
+          "Guaranteed Carry Forward of the unused Sum Insured",
+          "Reassure Forever"
+        ],
+        "benefits": {
+          "room_rent": "Any Room (Covered up to Rs 7.5 L)",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "(Guaranteed Booster +) 3X: Unutilised Base Sum Insured carries forward to the next policy year, maximum up to 3 times of Base Sum Insured."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "option to select deductible between 20k, 30k, 50k, 1Lakh,"
+          }
+        ],
+        "is_best_match": false
+      },
+      "e0debad9-6db1-4f78-a636-a052b139b893": {
+        "name": "Sarvah Pratham - Direct",
+        "company": "ManipalCigna Health Insurance Company Limited",
+        "monthly_premium": 368,
+        "annual_premium": 4419.0,
+        "usps": [
+          "Comprehensive protection with a focus on essential coverage. Covers 4 critical conditions i.e.  Heart Cancer Stroke and Major Organ/Bone Marrow Transplant. Accident Hospitalization available as Optional Cover Accident Hospitalization Cover Up to Sum Insured",
+          "No Zone wise co-payment",
+          "Guaranteed 10X bonus",
+          "Restoration- Multiple Restoration is available in a Policy Year for all illnesses",
+          "whether unrelated or same"
+        ],
+        "benefits": {
+          "room_rent": "Single Private AC room upto7.5L",
+          "pre_existing": "No waiting Period",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "Not Applicable",
+          "opd": "No",
+          "ncb": "100% Of SI per per yr-Max Up to 1000% Of Sum Insured through  optional Cover and  Reducible and non refundable (This is guaranteed bonus shall not reduce in case of claim)."
+        },
+        "addons": [],
+        "is_best_match": false
+      },
+      "e39b515c-4b9f-40f1-9ff8-15c98bbfcac8": {
+        "name": "Active One Max - Direct",
+        "company": "Aditya Birla Health Insurance Company Limited",
+        "monthly_premium": 1323,
+        "annual_premium": 15881.0,
+        "usps": [
+          "No limit on benefits",
+          "Super Reload benefits",
+          "Non consumable items are covered",
+          "Option to waive off the waiting period for specific illnesses"
+        ],
+        "benefits": {
+          "room_rent": "Actual upto sum insured",
+          "pre_existing": "Covers after 3 Years Option to reduce PED W.P. for specific illness",
+          "maternity": "No",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "Super credit- 100% of Sum Insured- Max. 500% or Max. 3 Cr."
+        },
+        "addons": [
+          {
+            "name": "Personal Accident Cover AD+PTD+PPD",
+            "details": "Available"
+          },
+          {
+            "name": "Critical Illness cover",
+            "details": "Available"
+          }
+        ],
+        "is_best_match": false
+      },
+      "ec62d1a4-dbab-48d7-bcdd-67321fdd225b": {
+        "name": "Sarvah Uttam - Direct",
+        "company": "ManipalCigna Health Insurance Company Limited",
+        "monthly_premium": 1481,
+        "annual_premium": 17775.0,
+        "usps": [
+          "Ultimate personalized Comprehensive and Modular Protection plan along with Infinite Health Coverage for 4 critical condition Heart and Cancer  Stroke and Major Organ/Bone Marrow Transplant",
+          "No Zone wise co-payment",
+          "Option to Cover PED like Asthma - BP - Cholesterol - Diabetes & Obesity after 30 days",
+          "Guaranteed 10X bonus",
+          "Restoration- Multiple Restoration is available in a Policy Year for all illnesses whether unrelated or same"
+        ],
+        "benefits": {
+          "room_rent": "Single Private AC room upto7.5L",
+          "pre_existing": "After 3 Yrs",
+          "maternity": "Available with Optional Cover ",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "Not Applicable",
+          "opd": "No",
+          "ncb": "100% Of SI per per yr-Max Up to 1000% Of Sum Insured \n        throgh  optional Cover and  Reducible and non refundable (This is guaranteed bonus shall not reduce in case of claim)."
+        },
+        "addons": [
+          {
+            "name": "Maternity Expenses",
+            "details": "In Individual policies, we can offer Maternity Expenses to Adult Insured Male member as well. However, claim under this benefit shall be payable to the female spouse upon adding them as an Insured in the Policy. In such cases the applicable waiting period shall be as per the first inception of the policy."
+          }
+        ],
+        "is_best_match": false
+      },
+      "ecfaa6bb-df10-4821-85b8-2992e607b158": {
+        "name": "Reassure 2.0 Titanium+ Direct",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1386,
+        "annual_premium": 16633.0,
+        "usps": [
+          "Unlimited Automatic Restoration",
+          "Unlimited E-Consultations",
+          "Wellness Benefit: Earn up to 30% Discount on Renewal",
+          "Guaranteed Carry Forward of the unused Sum Insured",
+          "Reassure Forever"
+        ],
+        "benefits": {
+          "room_rent": "Any Room (Covered up to Rs 7.5L)",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "(Guaranteed Booster +) 10X: Unutilised Base Sum Insured carries forward to the next policy year, maximum up to 10 times of Base Sum Insured."
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base sum insured. Maximum up to INR 1 Crore."
+          },
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          },
+          {
+            "name": "Room Category ",
+            "details": "Available"
+          },
+          {
+            "name": "Deductible",
+            "details": "option to select deductible between 20k, 30k, 50k, 1Lakh,"
+          }
+        ],
+        "is_best_match": false
+      },
+      "f2d5c46c-3e56-4313-a444-ed1fe57b32ad": {
+        "name": "Reassure 2.0 Bronze",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1149,
+        "annual_premium": 13793.0,
+        "usps": [
+          "Hospitalisation covered for 2 hours (1) and more Unlimited Restoration Upto 30% discount on renewal Booster+",
+          "Guaranteed Carry Forward of the unused Sum Insured"
+        ],
+        "benefits": {
+          "room_rent": "Any Room (Covered up to Rs 7.5L)",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "3X: Unutilised Base Sum Insured carries forward to the next policy year, maximum up to 3 times"
+        },
+        "addons": [
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          }
+        ],
+        "is_best_match": false
+      },
+      "f44ccc72-7f2f-43d2-aa60-fa9e2f23493b": {
+        "name": "Reassure 2.0 Gold - Direct",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1198,
+        "annual_premium": 14378.0,
+        "usps": [
+          "Hospitalisation covered for 2 hours (1) and more Unlimited Restoration Upto 30% discount on renewal Booster+",
+          "Guaranteed Carry Forward of the unused Sum Insured"
+        ],
+        "benefits": {
+          "room_rent": "Any Room (Covered up to Rs 7.5L)",
+          "pre_existing": "Covers after 3 years",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "10X: Unutilized Base Sum Insured carries forward to the next policy year, maximum up to 10 times."
+        },
+        "addons": [
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          }
+        ],
+        "is_best_match": false
+      },
+      "f6e085da-bb24-438d-b177-fbc05b82bfd5": {
+        "name": "ReAssure",
+        "company": "Niva Bupa Health Insurance Company Limited",
+        "monthly_premium": 1863,
+        "annual_premium": 22353.0,
+        "usps": [
+          "No limitation on hospitalization benefits-covered upto Sum insured",
+          "No co-payment available",
+          "Daily cash on shared accomodation",
+          "Emergency ambulance covered",
+          "Health checkup available from day 1"
+        ],
+        "benefits": {
+          "room_rent": "Covered Upto Sum Insured",
+          "pre_existing": "After 3 year",
+          "maternity": "No",
+          "cashless": "Yes",
+          "restoration": "No",
+          "copay": "No Co-Pay",
+          "opd": "No",
+          "ncb": "50% of sum insured in case of claim free year-Max. upto 100% of Sum Insured"
+        },
+        "addons": [
+          {
+            "name": "PA Cover",
+            "details": "Equal to 5 times of Base Sum Insured. Maximum up to INR 1 Crore"
+          },
+          {
+            "name": "Acute Care",
+            "details": "Customer can choose the options to get OPD, Pharmacy and diagnostic coverage-base consult and best care two options"
+          },
+          {
+            "name": "Disease Management",
+            "details": "Day 1 coverage for diabeties and hypertension"
+          }
+        ],
+        "is_best_match": false
+      },
+      "f96152e2-76e9-47da-9144-18c7c1b4e227": {
+        "name": "Comprehensive Plan",
+        "company": "Star Health And Allied Insurance Company Limited",
+        "monthly_premium": 1287,
+        "annual_premium": 15446.0,
+        "usps": [
+          "Automatic Restoration \u2013 100% Available",
+          "No claim bonus",
+          "Hospital cash benefit",
+          "Cover against accidental death and permanent total disablement",
+          "Health checkup for every claim-free year"
+        ],
+        "benefits": {
+          "room_rent": "Private Single Standard A/C",
+          "pre_existing": "After 3 years, Can get reduced to 1 year on additional premium payment",
+          "maternity": "After 2 Years - Upto Rs 40K",
+          "cashless": "yes",
+          "restoration": "Yes",
+          "copay": "No Co-Pay (10% if the entry age is 61 and above)",
+          "opd": "No",
+          "ncb": "Rs 7.5L per year upto Rs 7.5L"
+        },
+        "addons": [],
+        "is_best_match": false
+      }
+    }
+  }
+}

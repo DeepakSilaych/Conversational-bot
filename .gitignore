@@ -1,0 +1,11 @@
+env/
+recordings/
+__pycache__/venv/ 
+__pycache__/ 
+*.pyc 
+.env 
+azure_speech.log 
+venv/ 
+test_*.py 
+check_assembly_version.py 
+minimal_assembly_test.py 

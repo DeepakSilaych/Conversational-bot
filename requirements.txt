@@ -1,0 +1,26 @@
+deepgram-sdk==4.1.0
+asyncio==3.4.3
+numpy==2.2.6
+soundfile==0.13.1
+pyaudio==0.2.14 
+pydub==0.25.1
+elevenlabs==2.1.0
+openai==1.82.1
+webrtcvad==2.0.10
+sounddevice==0.5.2
+uvicorn==0.34.3
+setuptools==80.9.0
+python-dotenv==1.1.0
+fastapi==0.115.12
+scipy==1.15.3
+langchain_community==0.3.24
+langchain_openai==0.3.18
+pypdf==5.6.0
+# faiss-cpu>==1.11.0
+hnswlib==0.8.0
+groq==0.28.0
+sentence_transformers==4.1.0
+pinecone==7.3.0
+supabase==2.16.0
+python-multipart==0.0.20
+ffmpeg==1.4
